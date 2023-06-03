@@ -6,7 +6,7 @@ This repository focuses on predicting the total number of violent crimes in comm
 The dataset used for this project is the Communities and Crime dataset, which contains socio-economic and crime-related information for various communities in the United States. By training a neural network on this dataset, we aim to capture the complex relationships between the features and the target variable (total number of violent crimes) and make accurate predictions.
 
 ## Dataset
-The dataset used for this project is the Communities and Crime dataset. It contains a collection of features related to the socio-economic characteristics of communities, such as income levels, education, employment rates, and more. The target variable is the total number of violent crimes reported in each community.
+The dataset used for this project is the Communities and Crime dataset from UCI. It contains a collection of features related to the socio-economic characteristics of communities, such as income levels, education, employment rates, and more. The target variable is the total number of violent crimes reported in each community.
 
 The dataset is preprocessed and cleaned to handle missing values and ensure compatibility with the neural network model.
 
@@ -30,7 +30,8 @@ git clone https://github.com/kajolshah310/communities_and_crime_regressor.git
 
 Feel free to modify the code, experiment with different neural network architectures or hyperparameters, or explore additional techniques to improve the accuracy of the crime rate predictions.
 
-References
-TBD
+## References
+1) Dataset:- http://archive.ics.uci.edu/ml/machine-learning-databases/communities/communities.data
+
 ## License
 This repository is licensed under the MIT License. Feel free to use the code and the models for your own projects or research.
